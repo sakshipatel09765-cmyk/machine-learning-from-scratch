@@ -5,7 +5,7 @@ import numpy as np
 
 data = pd.read_csv("Student.csv")
 
-X = data[['Hours']]     #double brackets -> 2d=D input
+X = data[['Hours']]     #double brackets -> 2D input
 Y = data['Score']       #Target column
 
 model = LinearRegression()
