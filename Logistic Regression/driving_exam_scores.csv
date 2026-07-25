@@ -1,0 +1,202 @@
+candidate_id,age,gender,education_level,total_study_hours,practice_exams_taken,average_practice_score,exam_attempt_number,final_exam_score,success_status
+1,40,Male,High School,38,10,85.0,1,87.0,Yes
+2,45,Female,High School,33,8,79.0,2,81.0,Yes
+3,38,Female,Middle School,8,1,50.0,2,52.0,No
+4,33,Male,High School,20,6,68.0,1,69.5,No
+5,36,Male,Bachelor,28,7,69.5,3,70.5,Yes
+6,21,Male,High School,40,11,87.0,1,88.0,Yes
+7,18,Female,High School,20,5,65.0,1,68.0,No
+8,29,Male,Bachelor,44,13,93.0,1,95.0,Yes
+9,34,Female,High School,38,11,86.0,1,88.0,Yes
+10,27,Male,High School,40,12,89.0,2,91.0,Yes
+11,41,Female,Bachelor,30,9,78.0,2,80.0,Yes
+12,20,Female,High School,18,5,63.0,2,66.0,No
+13,24,Female,High School,42,13,90.0,1,92.0,Yes
+14,46,Male,Bachelor,39,11,87.0,1,89.0,Yes
+15,33,Female,High School,46,14,95.0,2,97.0,Yes
+16,27,Female,Bachelor,41,12,90.0,3,92.0,Yes
+17,28,Male,Master,47,14,96.0,1,97.5,Yes
+18,40,Male,Bachelor,43,13,92.0,1,94.0,Yes
+19,38,Male,High School,20,6,68.0,1,70.0,Yes
+20,27,Male,Elementary,7,1,40.0,1,43.0,No
+21,32,Female,Middle School,12,3,58.0,1,60.5,No
+22,58,Female,Elementary,15,4,55.0,2,57.0,No
+23,24,Male,High School,28,8,75.0,2,77.0,Yes
+24,40,Male,High School,30,9,78.0,2,80.0,Yes
+25,30,Male,Master,49,15,97.0,3,98.0,Yes
+26,28,Female,High School,32,9,79.0,3,81.0,Yes
+27,22,Female,Bachelor,48,14,95.0,5,97.0,Yes
+28,36,Female,Master,50,15,99.0,1,100.0,Yes
+29,54,Male,Middle School,18,5,65.0,2,67.0,No
+30,18,Female,High School,35,10,80.0,1,82.5,Yes
+31,20,Male,High School,38,11,85.0,1,87.0,Yes
+32,19,Female,High School,30,8,75.0,1,77.0,Yes
+33,25,Male,Bachelor,42,14,91.0,1,93.0,Yes
+34,24,Female,High School,20,5,68.0,1,69.5,No
+35,25,Male,Bachelor,12,3,60.0,1,62.0,No
+36,22,Male,High School,10,2,53.0,3,55.0,No
+37,25,Female,High School,36,11,85.0,2,87.0,Yes
+38,18,Male,High School,12,3,58.0,1,60.0,No
+39,54,Male,Middle School,18,5,65.0,2,67.0,No
+40,20,Male,High School,15,4,63.0,1,65.0,No
+41,48,Male,Elementary,7,1,45.0,2,47.5,No
+42,22,Male,High School,18,5,65.0,2,67.5,No
+43,42,Female,Middle School,15,3,50.0,5,52.0,No
+44,31,Male,Master,15,4,58.0,1,60.0,No
+45,44,Male,Elementary,8,2,45.0,3,48.0,No
+46,29,Female,Master,25,7,68.0,2,69.0,No
+47,21,Female,High School,10,2,50.0,2,51.0,No
+48,23,Male,Middle School,18,5,65.0,1,67.0,No
+49,25,Male,High School,15,4,61.0,2,63.0,No
+50,39,Female,Bachelor,22,6,68.0,1,69.0,No
+51,28,Female,Master,50,15,98.0,1,99.0,Yes
+52,29,Female,Bachelor,42,12,91.0,2,93.0,Yes
+53,34,Male,High School,35,10,83.0,2,85.0,Yes
+54,40,Male,Middle School,30,8,75.0,1,77.0,Yes
+55,27,Female,High School,37,11,85.0,1,87.0,Yes
+56,26,Female,Bachelor,40,12,90.0,1,92.0,Yes
+57,36,Female,High School,25,7,70.0,1,71.5,Yes
+58,25,Female,High School,36,11,84.0,1,86.0,Yes
+59,41,Male,Bachelor,45,14,95.0,2,97.0,Yes
+60,40,Male,Middle School,28,8,73.0,2,75.0,Yes
+61,25,Male,Master,48,14,95.0,1,65.0,No
+62,32,Female,Bachelor,45,13,90.0,2,58.0,No
+63,45,Male,High School,10,2,60.0,1,71.0,Yes
+64,30,Male,Elementary,5,0,40.0,2,70.5,Yes
+65,20,Male,Elementary,5,0,42.0,1,40.0,No
+66,48,Female,Middle School,8,2,50.0,1,49.5,No
+67,42,Male,Middle School,7,1,40.0,3,41.0,No
+68,26,Male,High School,28,7,71.0,1,69.8,No
+69,24,Male,Bachelor,20,5,63.0,1,65.5,No
+70,41,Female,Bachelor,42,12,91.0,1,93.0,Yes
+71,27,Male,Bachelor,35,10,80.0,1,82.0,Yes
+72,31,Female,High School,28,8,75.0,1,77.0,Yes
+73,40,Male,Middle School,22,6,68.0,1,70.5,Yes
+74,25,Female,Master,40,12,88.0,1,90.0,Yes
+75,45,Male,High School,30,9,78.0,2,80.0,Yes
+76,19,Female,High School,18,5,65.0,1,68.0,No
+77,33,Male,Bachelor,42,13,92.0,1,94.0,Yes
+78,38,Female,Middle School,15,4,60.0,2,62.0,No
+79,20,Male,High School,25,7,71.0,1,73.0,Yes
+80,48,Female,Elementary,10,3,55.0,3,57.0,No
+81,24,Male,Bachelor,38,11,85.0,1,87.0,Yes
+82,36,Female,High School,26,7,70.0,2,72.0,Yes
+83,41,Male,Master,45,14,95.0,1,97.0,Yes
+84,30,Female,High School,20,5,66.0,1,69.5,No
+85,21,Male,High School,32,9,80.0,1,82.5,Yes
+86,49,Female,Middle School,18,5,65.0,2,67.0,No
+87,43,Male,Bachelor,30,9,80.0,3,81.5,Yes
+88,28,Female,High School,34,10,82.0,1,84.0,Yes
+89,39,Male,Elementary,12,3,58.0,1,60.0,No
+90,35,Female,Bachelor,45,14,94.0,1,96.0,Yes
+91,23,Male,High School,29,8,75.0,1,77.5,Yes
+92,47,Female,Middle School,20,6,69.0,2,71.0,Yes
+93,44,Male,High School,35,11,83.0,1,85.0,Yes
+94,26,Female,Bachelor,40,12,89.0,1,91.0,Yes
+95,37,Male,Master,50,15,98.0,1,99.0,Yes
+96,42,Female,High School,30,9,78.0,2,80.0,Yes
+97,29,Male,Middle School,15,4,60.0,1,62.0,No
+98,46,Female,Elementary,8,2,50.0,3,52.0,No
+99,22,Male,High School,38,12,85.0,1,87.0,Yes
+100,31,Female,Bachelor,47,14,96.0,1,98.0,Yes
+101,34,Male,High School,25,7,70.0,2,73.0,Yes
+102,40,Female,Master,48,15,97.0,1,99.5,Yes
+103,49,Male,Middle School,16,4,62.0,1,65.0,No
+104,20,Female,High School,33,10,81.0,1,83.0,Yes
+105,45,Male,Bachelor,40,12,90.0,2,92.0,Yes
+106,28,Female,High School,28,8,75.0,3,77.0,Yes
+107,32,Male,Master,50,15,99.0,1,100.0,Yes
+108,41,Female,Middle School,20,5,65.0,2,68.0,No
+109,26,Male,High School,36,11,84.0,1,86.0,Yes
+110,43,Female,Bachelor,44,13,93.0,1,95.0,Yes
+111,30,Male,High School,25,7,70.0,1,72.0,Yes
+112,37,Female,Elementary,10,2,55.0,4,58.0,No
+113,23,Male,Bachelor,40,12,91.0,1,93.0,Yes
+114,48,Female,High School,32,9,79.0,2,81.0,Yes
+115,35,Male,Master,50,15,98.0,1,99.0,Yes
+116,18,Female,High School,15,4,60.0,1,61.5,No
+117,46,Male,Middle School,20,5,68.0,2,70.0,Yes
+118,29,Female,Bachelor,38,11,87.0,1,89.0,Yes
+119,44,Male,High School,25,7,71.0,1,73.0,Yes
+120,21,Female,Elementary,5,1,40.0,1,42.0,No
+121,24,Male,Bachelor,45,14,94.0,1,96.0,Yes
+122,21,Male,High School,38,12,85.0,1,87.5,Yes
+123,23,Male,Middle School,15,4,60.0,1,62.0,No
+124,29,Male,Bachelor,40,13,91.0,2,93.0,Yes
+125,27,Male,High School,22,6,68.0,1,70.0,Yes
+126,25,Male,High School,10,2,55.0,2,57.0,No
+127,22,Male,Elementary,5,1,40.0,1,42.0,No
+128,26,Male,Master,47,14,96.0,1,97.5,Yes
+129,24,Male,Middle School,12,3,58.0,1,60.0,No
+130,35,Female,Bachelor,45,14,94.0,1,96.0,Yes
+131,20,Female,High School,35,11,83.0,1,85.0,Yes
+132,45,Female,Middle School,10,2,50.0,1,52.0,No
+133,35,Male,Bachelor,40,12,90.0,1,92.0,Yes
+134,41,Female,High School,37,10,84.0,1,86.0,Yes
+135,49,Male,Middle School,16,4,62.0,1,65.0,No
+136,27,Male,High School,30,9,78.0,1,80.0,Yes
+137,30,Female,High School,25,7,70.0,1,72.0,Yes
+138,43,Male,Bachelor,44,13,93.0,1,95.0,Yes
+139,38,Male,Elementary,5,1,40.0,2,42.0,No
+140,25,Female,Master,40,12,88.0,1,90.0,Yes
+141,45,Male,High School,30,9,78.0,2,80.0,Yes
+142,19,Female,High School,18,5,65.0,1,68.0,No
+143,33,Male,Bachelor,42,13,92.0,1,94.0,Yes
+144,40,Female,Middle School,15,4,60.0,2,62.0,No
+145,20,Male,High School,25,7,71.0,1,73.0,Yes
+146,34,Male,High School,25,7,70.0,2,73.0,Yes
+147,44,Male,Middle School,35,11,83.0,1,85.0,Yes
+148,26,Female,Bachelor,40,12,89.0,1,91.0,Yes
+149,37,Male,Master,50,15,98.0,1,99.0,Yes
+150,42,Female,High School,30,9,78.0,2,80.0,Yes
+151,29,Male,Middle School,15,4,60.0,1,62.0,No
+152,46,Female,Elementary,8,2,50.0,3,52.0,No
+153,22,Male,High School,38,12,85.0,1,87.0,Yes
+154,31,Female,Bachelor,47,14,96.0,1,98.0,Yes
+155,40,Female,Master,48,15,97.0,1,99.5,Yes
+156,49,Male,Middle School,16,4,62.0,1,65.0,No
+157,20,Female,High School,33,10,81.0,1,83.0,Yes
+158,45,Male,Bachelor,40,12,90.0,2,92.0,Yes
+159,28,Female,High School,28,8,75.0,3,77.0,Yes
+160,32,Male,Master,50,15,99.0,1,100.0,Yes
+161,41,Female,Middle School,20,5,65.0,2,68.0,No
+162,26,Male,High School,36,11,84.0,1,86.0,Yes
+163,43,Female,Bachelor,44,13,93.0,1,95.0,Yes
+164,30,Male,High School,25,7,70.0,1,72.0,Yes
+165,48,Female,High School,32,9,79.0,2,81.0,Yes
+166,25,Male,Master,50,15,99.0,1,100.0,Yes
+167,30,Male,Bachelor,48,14,96.0,1,98.0,Yes
+168,22,Male,High School,42,13,91.0,1,93.0,Yes
+169,33,Male,Bachelor,45,14,94.0,1,96.0,Yes
+170,27,Male,Master,49,15,98.0,2,99.0,Yes
+171,24,Male,High School,38,12,87.0,1,89.0,Yes
+172,20,Male,High School,15,4,60.0,1,62.5,No
+173,26,Male,Middle School,10,2,50.0,1,52.0,No
+174,32,Male,Elementary,8,2,45.0,2,47.0,No
+175,31,Female,Bachelor,46,14,95.0,1,97.0,Yes
+176,25,Female,High School,33,10,81.0,2,83.0,Yes
+177,42,Female,Middle School,18,5,65.0,1,67.5,No
+178,20,Female,High School,40,12,88.0,1,90.0,Yes
+179,29,Female,High School,30,9,78.0,1,80.0,Yes
+180,45,Female,Middle School,15,4,60.0,2,62.0,No
+181,22,Female,Master,50,15,99.0,1,100.0,Yes
+182,31,Male,Bachelor,40,12,90.0,1,92.0,Yes
+183,45,Female,High School,30,8,77.0,2,79.0,Yes
+184,22,Male,Master,50,15,99.0,1,100.0,Yes
+185,38,Female,Middle School,10,2,55.0,1,57.0,No
+186,26,Male,High School,25,7,70.0,1,72.5,Yes
+187,49,Female,Elementary,5,1,40.0,3,42.0,No
+188,35,Male,Bachelor,43,13,93.0,1,95.0,Yes
+189,19,Female,High School,18,5,65.0,2,67.0,No
+190,42,Male,Master,47,14,96.0,1,98.0,Yes
+191,29,Female,High School,20,6,68.0,1,69.5,No
+192,34,Male,Middle School,15,4,60.0,2,62.0,No
+193,40,Female,Bachelor,45,14,94.0,1,96.0,Yes
+194,27,Male,High School,38,12,85.0,1,87.0,Yes
+195,46,Female,Elementary,8,2,48.0,1,50.0,No
+196,23,Male,Master,48,15,97.0,2,99.0,Yes
+197,41,Female,High School,30,9,78.0,1,80.0,Yes
+198,36,Male,Bachelor,42,13,91.0,1,93.0,Yes
+199,44,Female,Middle School,12,3,58.0,2,60.0,No
+200,30,Male,High School,25,7,71.0,1,73.0,Yes
+201,47,Female,Elementary,6,1,40.0,3,43.0,No
