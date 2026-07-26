@@ -315,24 +315,14 @@ plt.scatter(
     s=100
 )
 
-plt.xlabel(
-    "K Value"
-)
+plt.xlabel("K Value")
 
-plt.ylabel(
-    "Accuracy"
-)
+plt.ylabel("Accuracy")
 
-plt.title(
-    "KNN Accuracy vs K Value"
-)
+plt.title("KNN Accuracy vs K Value")
 
-plt.xticks(
-    k_values
-)
+plt.xticks(k_values)
 
-plt.grid(
-    True
-)
+plt.grid(True)
 
 plt.show()
