@@ -3,6 +3,7 @@ import numpy as np
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error, r2_score, accuracy_score
+import matplotlib.pyplot as plt
 
 # --------------------------------
 # 1. Dataset Load
@@ -121,21 +122,21 @@ new_data = pd.DataFrame({
 
 
 # --------------------------------
-# 11. Prediction
+# 12. Prediction
 # --------------------------------
 
 prediction = model.predict(new_data)
 
 
 # --------------------------------
-# 12. Probability
+# 13. Probability
 # --------------------------------
 
 probability = model.predict_proba(new_data)
 
 
 # --------------------------------
-# 13. Result
+# 14. Result
 # --------------------------------
 
 if prediction[0] == 1:
@@ -145,9 +146,52 @@ else:
 
 
 # --------------------------------
-# 14. Probability Display
+# 15. Probability Display
 # --------------------------------
 
 print("Success Probability:",round(probability[0][1] * 100, 2),"%")
 
 print("Failure Probability:",round(probability[0][0] * 100, 2),"%")
+
+#----------------------------
+# 16. Visualization
+#----------------------------
+
+# status_count = df["success_status"].map({
+#     1:"Successful",
+#     0:"Not Successful"
+# }).value_counts()
+
+
+#BAR CHART
+# plt.bar(
+#     status_count.index,
+#     status_count.values
+#         )
+
+# plt.xlabel("Exam Result")
+# plt.ylabel("No of candidates")
+# plt.title("Driving Exam Success Status")
+
+# plt.show()
+
+# #PIE CHART
+# plt.pie(
+#     status_count.values,
+#     labels=status_count.index,
+#     autopct="%1.1f%%"
+# )
+
+# plt.title("Driving Exam Success Distribution")
+# plt.show()
+
+# #STUDY HOURS VS FINAL EXAM SCORE
+# plt.scatter(
+#     df["total_study_hours"],
+#     df["final_exam_score"]
+# )
+
+# plt.xlabel("Total study hours")
+# plt.ylabel("Final exam score")
+# plt.title("Study Hours vs Final Exam Score")
+# plt.show()
